@@ -103,7 +103,7 @@ def main():
     
     # Create a SplitEvensOdds list and populate it with sample data
     split_list = SplitEvensOdds()
-    split_list.build_forward_list([1, 2, 3, 4, 5, 6, 7, 8, 15, 14, 13, 12, 11, 10, 9])
+    split_list.build_forward_list([1, 24, 3, 4, 5, 6, 67, 8, 15, 14, 13, 12, 11, 100, 9, 9000])
     
     # Display the original list
     print("Original list:")
